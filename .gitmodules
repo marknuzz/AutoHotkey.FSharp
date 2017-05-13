@@ -1,0 +1,3 @@
+[submodule "AutoHotkey.Interop"]
+	path = lib/AutoHotkey.Interop
+	url = git@github.com:amazing-andrew/AutoHotkey.Interop.git

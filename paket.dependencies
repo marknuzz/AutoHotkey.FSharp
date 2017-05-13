@@ -1,0 +1,9 @@
+source https://nuget.org/api/v2
+framework >= net462
+
+nuget FSharpx.Async
+nuget FSharpx.Collections
+nuget FSharpx.Extras
+nuget FsUnit.xUnit
+nuget xunit.runner.console
+nuget Hopac
