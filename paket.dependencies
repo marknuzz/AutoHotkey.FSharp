@@ -5,5 +5,7 @@ nuget FSharpx.Async
 nuget FSharpx.Collections
 nuget FSharpx.Extras
 nuget FsUnit.xUnit
+nuget xunit
 nuget xunit.runner.console
+nuget xunit.runner.visualstudio >= 2.0 version_in_path: true
 nuget Hopac
